@@ -1,7 +1,10 @@
 # 📝 Todo App (JavaScript)
 
-An interactive browser-based Todo application built using vanilla JavaScript.
-This project demonstrates dynamic DOM manipulation, event-driven UI updates, and persistent client-side data storage using `localStorage`.
+A browser-based Todo application built with vanilla JavaScript that allows users to manage daily tasks efficiently.
+This project demonstrates DOM manipulation, event-driven updates, and persistent client-side storage using localStorage.
+
+🔗 **Live Demo**
+https://sarthak050205.github.io/Todo-app-js/
 
 ---
 
@@ -25,44 +28,30 @@ This project demonstrates dynamic DOM manipulation, event-driven UI updates, and
 
 ---
 
-## 📚 What I Learned
+## 📚 Key Learning Outcomes
 
 * DOM querying and manipulation
-* Handling user events
+* Handling user interaction events
 * Managing application state using arrays/objects
-* Persisting data with JSON serialization
-* Re-rendering UI after updates
+* JSON serialization and storage
 * Implementing task editing workflows
+* Debugging interactive UI behavior
 
 ---
 
-## ▶️ How to Run Locally
+## ▶️ Run Locally
 
-Clone repository:
+git clone https://github.com/sarthak050205/Todo-app-js
 
-```
-git clone https://github.com/YOUR-USERNAME/todo-app-js.git
-```
-
-Open folder and launch `index.html` in browser
-(or run using Live Server)
-
----
-
-## 🔮 Future Improvements
-
-* Task filtering (Completed / Pending)
-* Drag-and-drop ordering
-* Dark mode toggle
-* Mobile responsive optimization
+Open `index.html` in browser or run via Live Server.
 
 ---
 
 ## 👤 Author
 
-Sarthak kumar lohani
-(https://www.linkedin.com/in/sarthak-kumar-214aab325)
+**Sarthak Kumar Lohani**
+LinkedIn: https://www.linkedin.com/in/sarthak-kumar-214aab325
 
 ---
 
-⭐ Feedback and suggestions welcome!
+⭐ Feedback and suggestions are welcome!
